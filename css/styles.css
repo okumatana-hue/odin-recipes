@@ -1,0 +1,24 @@
+h1{
+    color: #e90ba6;
+    font-family:fantasy
+}
+
+p {
+    color: #556497;
+    font-family:deja vu sans mono;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #881b5a;
+   
+}
+
+ol {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #881b5a;
+   
+}
